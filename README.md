@@ -38,6 +38,22 @@ This project is an interactive Sales & Revenue Analysis Dashboard developed usin
 - Project Documentation
 
 ---
+## 📊 Skills Demonstrated
 
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- Power Query
+- DAX
+- KPI Reporting
+
+---
+
+## 📬 Contact
+
+- GitHub: https://github.com/kalaivani-cmd
+- LinkedIn:www.linkedin.com/in/kalaivani-v24 
 ## 👩‍💻 Developed By
 Kalai Vani
